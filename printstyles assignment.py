@@ -1,9 +1,9 @@
 
-# print ("Sales %10s, Total %10.3f" %("wrong", 4.34543)) # printf style formatting data
+print ("Sales %10s, Total %10.3f" %("wrong", 4.34543)) # printf style formatting data
 
-# # %10s >       1332
+%10s >       1332
 
-# print("Sales :{0:10d}, Total :{1:9.2f}".format(12323, 00.5467)) # padding spaces before for an integer(d)
+print("Sales :{0:10d}, Total :{1:9.2f}".format(12323, 00.5467)) # padding spaces before for an integer(d)
 
 # print ("{a:20} {b:30} and {c:s}".format(c = "Python", b = "Data Science", a = "ML")) # invalid statement; cannot assignment to integer;
 
